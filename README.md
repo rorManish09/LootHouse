@@ -3,7 +3,7 @@ Its is a simple Website Frontend.
 
 
 Made up from HTML,CSS and BootStrap
+![css-3_5968242](https://github.com/rorManish09/LootHouse/assets/122202605/c2ac959f-2902-4d58-bb43-806b5ac51a5e) ![bootstrap](https://github.com/rorManish09/LootHouse/assets/122202605/210129f5-ad71-4ec8-b127-46254ddb006e) ![html-5_5968267](https://github.com/rorManish09/LootHouse/assets/122202605/3bdaac88-fab1-4464-8e6d-d5199a9dde5a)
 
-![download](https://github.com/rorManish09/LootHouse/assets/122202605/cb888031-ce1d-42e4-a8c6-141715afa5b8),![download](https://github.com/rorManish09/LootHouse/assets/122202605/d4bd9dd5-9608-4475-b420-e434668a1e14),![download](https://github.com/rorManish09/LootHouse/assets/122202605/d511a358-cf95-4df4-9f91-c2787e113db3)
 
 ##Link:-https://rormanish09.github.io/LootHouse/
