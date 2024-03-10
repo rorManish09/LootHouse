@@ -1,11 +1,27 @@
-.heart
-{
-    position: absolute;
-    top: 0;
+.heart-button{
     
+   color: rgb(215, 31, 215);
 }
 
-#heart-property:hover{
-    width: px;
-    color: rgb(105, 101, 101);
+.heart-button:hover{
+    color: rgb(91, 0, 137);
+}
+
+.heart{
+    position: absolute;
+    z-index: 1;
+    padding: 10px;
+}
+
+.img-fluid{
+    height: 75%;
+    width: auto;
+}
+
+.price-before{
+    font-size: smaller;
+    color: rgb(129, 125, 125);
+}
+.nav-text>a{
+    color: black;
 }
